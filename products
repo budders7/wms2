@@ -1,0 +1,9 @@
+id,name,description,description_alt,upc,color,size,quantity,sku
+1,Item 1,This is Item 1,,123456789012,,,100,item_1
+2,Item 2,This is Item 2,,123456789013,,,100,item_2
+3,Item 3,This is Item 3,,123456789014,,,100,item_3
+4,Item 4,This is Item 4,,123456789015,,,100,item_4
+5,Item 5,This is Item 5,,123456789016,,,0,item5
+6,afwefa,afawef,"",34534534,"","",0,awfwe
+7,34rr,efq34,,33,,,0,efwf
+8,ewfqw,asdfaewf,,343534,,,0,q3efq
